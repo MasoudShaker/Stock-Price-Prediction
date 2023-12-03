@@ -7,8 +7,6 @@
 <!--   <img src="images/sample_image_colorization.jpg"> -->
 </p>
 
-
-
 The goal is to predict stock price. Prediction stock price is a time-series problem. Time series prediction problems are a difficult type of predictive modeling problem.
 
 
