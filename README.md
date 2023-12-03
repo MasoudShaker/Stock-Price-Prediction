@@ -2,10 +2,7 @@
 
 
 
-  Welcome to the **forth** programming assignment of the Deep Learning course. 
-  <br/><br/>
-<!--   <img src="images/sample_image_colorization.jpg"> -->
-</p>
+Welcome to the **forth** programming assignment of the Deep Learning course. 
 
 The goal is to predict stock price. Prediction stock price is a time-series problem. Time series prediction problems are a difficult type of predictive modeling problem.
 
