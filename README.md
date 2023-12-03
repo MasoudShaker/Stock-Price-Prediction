@@ -2,7 +2,7 @@
 
 
 
-Welcome to the **forth** programming assignment of the Deep Learning course. 
+Welcome to the **fourth** programming assignment of the Deep Learning course. 
 
 The goal is to predict stock price. Prediction stock price is a time-series problem. Time series prediction problems are a difficult type of predictive modeling problem.
 
