@@ -1,11 +1,8 @@
-<h1 align="center">
-  LSTM | GRU for Regression
-</h1>
+# LSTM | GRU for Regression
 
 
 
-<p align="center">
-  Welcome to the forth programming assignment of the Deep Learning course. 
+  Welcome to the **forth** programming assignment of the Deep Learning course. 
   <br/><br/>
 <!--   <img src="images/sample_image_colorization.jpg"> -->
 </p>
